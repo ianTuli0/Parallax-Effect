@@ -1,2 +1,5 @@
-Parallax-Effect
-Parallax effect using my favorite games
+Project deploy in Vercel
+
+https://parallax-effect-two-eta.vercel.app/
+
+
